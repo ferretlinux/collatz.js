@@ -4,7 +4,7 @@ let seed = Number(input)
 if(input == "--help") {
 	console.log("just type node.js collatz.js (intager of your choosing), see its eazy!!!")
 } else if(input == "--credits") {
-	console.log("coded by ferretlinux23")
+	console.log("coded by ferretlinux")
 	console.log("coded in JavaScript")
 } else if (input == "--version") {
 	console.log("1.0")
